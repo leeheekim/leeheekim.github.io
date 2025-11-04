@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hi! I'm Leehee Kim!
+I am a Ph.D. student in Industrial Engineering at Seoul National University(South Korea), advised by Prof. Sungjoo Lee. I am currently visiting the Human-Computer Interaction Institute (HCII) at Carnegie Mellon University as a Collaborative Researcher in Prof. John Zimmerman’s lab.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I received my Master’s degree in Industrial Engineering from Seoul National University under Prof. Sungjoo Lee. Before SNU, I earned my B.A. in Philosophy, B.S. in Engineering, and B.B.A. in Business Administration (triple majors in Philosophy, Business Administration, and Big Data Science) from Sogang University, graduating Summa Cum Laude.
+
+My research focuses on technology forecasting and AI–expert collaboration. On the technology forecasting side, I have explored methodologies using patent databases, including patent network comparison for technology intelligence extraction and technology evolution identification using technology, country, and company information. Regarding AI–expert collaboration, I have conducted a review of AI–expert interaction patterns and explored explainable AI approaches to support effective collaboration between experts and AI. Currently, I am developing frameworks for collaboration between experts and large language models (LLMs) to support technology forecasting tasks.
 
 A data-driven personal website
 ======
