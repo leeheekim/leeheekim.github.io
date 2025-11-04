@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hi! I'm Leehee Kim!
-I am a Ph.D. student in Industrial Engineering at Seoul National University(South Korea), advised by Prof. **[Sungjoo Lee](https://scholar.google.com/citations?user=2yxmfPsAAAAJ&hl=ko&oi=ao){: .nounderline }**. I am currently visiting the [Human-Computer Interaction Institute (HCII)](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) as a Collaborative Researcher in Prof. [John Zimmerman](https://hcii.cmu.edu/people/john-zimmerman)’s lab.
+I am a Ph.D. student in Industrial Engineering at Seoul National University(South Korea), advised by Prof. **[Sungjoo Lee](https://scholar.google.com/citations?user=2yxmfPsAAAAJ&hl=ko&oi=ao)**. I am currently visiting the [Human-Computer Interaction Institute (HCII)](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) as a Collaborative Researcher in Prof. [John Zimmerman](https://hcii.cmu.edu/people/john-zimmerman)’s lab.
 
 I received my Master’s degree in [Industrial Engineering](https://ie.snu.ac.kr/) from [Seoul National University](https://snu.ac.kr/index.html) under Prof. Sungjoo Lee. Before SNU, I earned my B.A. in Philosophy, B.S. in Engineering, and B.B.A. in Business Administration (triple majors in Philosophy, Business Administration, and Big Data Science) from [Sogang University](https://sogang.ac.kr/ko/home), graduating Summa Cum Laude.
 
