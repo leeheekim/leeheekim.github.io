@@ -1,0 +1,36 @@
+/* ========================================================================== 
+   Custom Overrides for Leehee Kim Website
+   ========================================================================== */
+
+/* 전체 배경 흰색, 글자 검정 */
+body, .site, .page {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+}
+
+/* 제목 글자 색 검정 유지 */
+h1, h2, h3, h4, h5, h6 {
+  color: #000000 !important;
+}
+
+/* 링크 스타일: bold + 밑줄 제거 */
+a {
+  font-weight: bold;
+  text-decoration: none !important;
+  color: #0077cc; /* 원하는 링크 색상 */
+}
+
+a:hover, a:focus {
+  color: #005fa3;          /* 마우스 올리면 진한 색 */
+  text-decoration: underline; /* 호버 시만 밑줄 */
+}
+
+/* 사이드바, 푸터, 테이블, 코드 블록 배경 흰색 */
+.sidebar, .footer, table, pre, code {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+}
+
+th, td {
+  border-color: #dddddd !important;
+}
