@@ -12,7 +12,9 @@ I am a Ph.D. student in Industrial Engineering at Seoul National University(Sout
 
 I received my Master’s degree in Industrial Engineering from Seoul National University under Prof. Sungjoo Lee. Before SNU, I earned my B.A. in Philosophy, B.S. in Engineering, and B.B.A. in Business Administration (triple majors in Philosophy, Business Administration, and Big Data Science) from Sogang University, graduating Summa Cum Laude.
 
-My research focuses on technology forecasting and AI–expert collaboration. On the technology forecasting side, I have explored methodologies using patent databases, including patent network comparison for technology intelligence extraction and technology evolution identification using technology, country, and company information. Regarding AI–expert collaboration, I have conducted a review of AI–expert interaction patterns and explored explainable AI approaches to support effective collaboration between experts and AI. Currently, I am developing frameworks for collaboration between experts and large language models (LLMs) to support technology forecasting tasks.
+My research focuses on **technology forecasting** and **AI–expert collaboration**. On the technology forecasting side, I have explored methodologies using patent databases, including patent network comparison for technology intelligence extraction and technology evolution identification using technology, country, and company information. Regarding AI–expert collaboration, I have conducted a review of AI–expert interaction patterns and explored explainable AI approaches to support effective collaboration between experts and AI. 
+
+Currently, I am developing frameworks for collaboration between experts and large language models (LLMs) to support technology forecasting tasks.
 
 A data-driven personal website
 ======
