@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -22,7 +22,7 @@ Currently, I am developing frameworks for collaboration between experts and larg
 NEWS!
 ======
 
-<div serif; line-height: 1.5;">
+<div style="line-height: 1.5;">
   <div style="display: flex; padding: 0.5em 0; border-bottom: 1px solid #ccc;">
     <div style="flex: 0 0 120px;">09/2025 ✈️</div>
     <div style="flex: 1;"><strong>Visiting Researcher at CMU HCII!</strong></div>
