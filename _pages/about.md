@@ -23,15 +23,12 @@ NEWS!
 
 <pre style="font-family: 'Courier New', monospace;">
 09/2025 ✈️  Visiting Researcher at CMU HCII!
+</pre>
+<hr>
+<pre style="font-family: 'Courier New', monospace;">
 03/2024 📚  Started Ph.D. at Seoul National University (SNU)!
+</pre>
+<hr>
+<pre style="font-family: 'Courier New', monospace;">
 02/2024 🎓  Received Master's degree in Industrial Engineering at Seoul National University (SNU)
 </pre>
-
-
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-
