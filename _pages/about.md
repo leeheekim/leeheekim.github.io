@@ -18,7 +18,7 @@ Currently, I am developing frameworks for collaboration between experts and larg
 
 <br>
 
-NEWS!
+<span style="font-family: 'Merriweather', serif;">NEWS!</span>
 ======
 
 <div style="font-family: 'Merriweather', serif; line-height: 1.5;">
