@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Leehee Kim!
+Hi, I'm Leehee Kim! 😊
 
 I am a Ph.D. student in Industrial Engineering at Seoul National University(South Korea), advised by Prof. **[Sungjoo Lee](https://scholar.google.com/citations?user=2yxmfPsAAAAJ&hl=ko&oi=ao)**. I am currently visiting the **[Human-Computer Interaction Institute (HCII)](https://hcii.cmu.edu/)** at **[Carnegie Mellon University](https://www.cmu.edu/)** as a Collaborative Researcher in Prof. **[John Zimmerman](https://hcii.cmu.edu/people/john-zimmerman)**’s lab.
 
