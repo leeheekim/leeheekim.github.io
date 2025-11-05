@@ -25,14 +25,14 @@ NEWS!
 <div style="line-height: 1.5;">
   <div style="display: flex; padding: 0.5em 0; border-bottom: 1px solid #ccc;">
     <div style="flex: 0 0 120px;">09/2025 ✈️</div>
-    <div style="flex: 1;"><strong>Visiting Researcher at CMU HCII!</strong></div>
+    <div style="flex: 1;">Visiting Researcher at <strong>CMU HCII</strong>!</div>
   </div>
   <div style="display: flex; padding: 0.5em 0; border-bottom: 1px solid #ccc;">
     <div style="flex: 0 0 120px;">03/2024 📚</div>
-    <div style="flex: 1;"><strong>Started Ph.D. at SNU!</strong></div>
+    <div style="flex: 1;">Started Ph.D. at <strong>SNU</strong>!</div>
   </div>
   <div style="display: flex; padding: 0.5em 0; border-bottom: 1px solid #ccc;">
     <div style="flex: 0 0 120px;">02/2024 🎓</div>
-    <div style="flex: 1;"><strong>Received Master's degree in Industrial Engineering at SNU</strong></div>
+    <div style="flex: 1;">Received Master's degree in Industrial Engineering at <strong>SNU</strong>!</div>
   </div>
 </div>
