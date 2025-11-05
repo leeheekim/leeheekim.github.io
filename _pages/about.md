@@ -22,16 +22,16 @@ NEWS!
 ======
 
 <div style="font-family: 'Merriweather', serif; line-height: 1.5;">
-  <div style="display: flex; gap: 1em; border-bottom: 1px solid #ccc; padding: 0.5em 0;">
-    <div style="width: 120px;">09/2025 ✈️</div>
-    <div>Visiting Researcher at CMU HCII!</div>
+  <div style="display: flex; padding: 0.5em 0; border-bottom: 1px solid #ccc;">
+    <div style="flex: 0 0 120px;">09/2025 ✈️</div>
+    <div style="flex: 1;">Visiting Researcher at CMU HCII!</div>
   </div>
-  <div style="display: flex; gap: 1em; border-bottom: 1px solid #ccc; padding: 0.5em 0;">
-    <div style="width: 120px;">03/2024 📚</div>
-    <div>Started Ph.D. at Seoul National University (SNU)!</div>
+  <div style="display: flex; padding: 0.5em 0; border-bottom: 1px solid #ccc;">
+    <div style="flex: 0 0 120px;">03/2024 📚</div>
+    <div style="flex: 1;">Started Ph.D. at Seoul National University (SNU)!</div>
   </div>
-  <div style="display: flex; gap: 1em; border-bottom: 1px solid #ccc; padding: 0.5em 0;">
-    <div style="width: 120px;">02/2024 🎓</div>
-    <div>Received Master's degree in Industrial Engineering at Seoul National University (SNU)</div>
+  <div style="display: flex; padding: 0.5em 0; border-bottom: 1px solid #ccc;">
+    <div style="flex: 0 0 120px;">02/2024 🎓</div>
+    <div style="flex: 1;">Received Master's degree in Industrial Engineering at Seoul National University (SNU)</div>
   </div>
 </div>
