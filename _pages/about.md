@@ -24,14 +24,14 @@ Currently, I am developing frameworks for collaboration between experts and larg
 <div style="font-family: 'Merriweather', serif; line-height: 1.5;">
   <div style="display: flex; padding: 0.5em 0; border-bottom: 1px solid #ccc;">
     <div style="flex: 0 0 120px;">09/2025 ✈️</div>
-    <div style="flex: 1;">**Visiting Researcher at CMU HCII!**</div>
+    <div style="flex: 1;"><strong>Visiting Researcher at CMU HCII!</strong></div>
   </div>
   <div style="display: flex; padding: 0.5em 0; border-bottom: 1px solid #ccc;">
     <div style="flex: 0 0 120px;">03/2024 📚</div>
-    <div style="flex: 1;">**Started Ph.D. at SNU!**</div>
+    <div style="flex: 1;"><strong>Started Ph.D. at SNU!</strong></div>
   </div>
   <div style="display: flex; padding: 0.5em 0; border-bottom: 1px solid #ccc;">
     <div style="flex: 0 0 120px;">02/2024 🎓</div>
-    <div style="flex: 1;">**Received Master's degree in Industrial Engineering at SNU**</div>
+    <div style="flex: 1;"><strong>Received Master's degree in Industrial Engineering at SNU</strong></div>
   </div>
 </div>
