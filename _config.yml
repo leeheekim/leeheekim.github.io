@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Leehee Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. Student at SNU"
+  location         : "Pittsburgh, US"
+  employer         : # URL
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kimlh@snu.ac.kr" 
 
   # Academic websites
   academia         : # URL
