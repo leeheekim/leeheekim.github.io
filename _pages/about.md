@@ -1,14 +1,15 @@
 ---
 permalink: /
-title: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
+<h1 style="font-family: 'Merriweather', serif;">About</h1>
+
 Hi! I'm Leehee Kim!
-I am a Ph.D. student in Industrial Engineering at Seoul National University(South Korea), advised by Prof. **[Sungjoo Lee](https://scholar.google.com/citations?user=2yxmfPsAAAAJ&hl=ko&oi=ao)**. I am currently visiting the **[Human-Computer Interaction Institute (HCII)](https://hcii.cmu.edu/)** at **[Carnegie Mellon University](https://www.cmu.edu/)** as a Collaborative Researcher in **Prof. [John Zimmerman](https://hcii.cmu.edu/people/john-zimmerman)**’s lab.
+I am a Ph.D. student in Industrial Engineering at Seoul National University(South Korea), advised by Prof. **[Sungjoo Lee](https://scholar.google.com/citations?user=2yxmfPsAAAAJ&hl=ko&oi=ao)**. I am currently visiting the **[Human-Computer Interaction Institute (HCII)](https://hcii.cmu.edu/)** at **[Carnegie Mellon University](https://www.cmu.edu/)** as a Collaborative Researcher in Prof. **[John Zimmerman](https://hcii.cmu.edu/people/john-zimmerman)**’s lab.
 
 I received my Master’s degree in Industrial Engineering from Seoul National University under Prof. Sungjoo Lee. Before SNU, I earned my B.A. in Philosophy, B.S. in Engineering, and B.B.A. in Business Administration (triple majors in Philosophy, Business Administration, and Big Data Science) from Sogang University, graduating Summa Cum Laude.
 
