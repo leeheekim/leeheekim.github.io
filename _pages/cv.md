@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can also download my CV [here]({{ "/assets/files/cv_Leehee.pdf" | relative_url }}).
+You can download my CV [here]({{ "/assets/files/cv_Leehee.pdf" | relative_url }}).
 
+{% comment %}
 Education
 ======
 * Ph.D in Industrial Engineering, Seoul National University, 2018 (expected)
@@ -20,10 +21,9 @@ Work experience
 ======
 * Spring 2020: Cybersecurity Team Intern
   * ETAS Korea 
-#  * Duties includes: Updates and improvements to template
-#  * Supervisor: The Users
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
     
-{% comment %}
 * Fall 2015: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests
