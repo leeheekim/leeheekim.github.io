@@ -8,21 +8,22 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can also download my CV here.
+You can also download my CV [here]({{ "/assets/files/cv_Leehee.pdf" | relative_url }}).
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Industrial Engineering, Seoul National University, 2018 (expected)
+* M.S. in Industrial Engineering, Seoul National University, 2024
+* B.S. in Philosophy, Business Administration, Big Data Science, Sogang University, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
+* Spring 2020: Cybersecurity Team Intern
+  * ETAS Korea 
+#  * Duties includes: Updates and improvements to template
+#  * Supervisor: The Users
+    
+{% comment %}
 * Fall 2015: Research Assistant
   * GitHub University
   * Duties included: Merging pull requests
@@ -32,7 +33,7 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+
 Skills
 ======
 * Skill 1
@@ -63,3 +64,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+{% comment %}
